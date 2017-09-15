@@ -1,2 +1,2 @@
 # dbadmin
-Database admin scripts
+Database admin scripts and associated files
